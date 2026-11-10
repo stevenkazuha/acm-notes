@@ -1,0 +1,12 @@
+# Obsidian 本地窗口状态与缓存
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 本地临时截图
+13-综合训练/Pasted image *.png
